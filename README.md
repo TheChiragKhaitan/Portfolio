@@ -31,6 +31,6 @@ If you wish to connect with me, you can reach out through the following channels
 
 ### About
 
-This portfolio website serves as a testament to my skills, projects, and creativity in web development. It aims to provide visitors with a comprehensive view of my work and capabilities.
+This Portfolio website serves as a testament to my skills, projects, and creativity in web development. It aims to provide visitors with a comprehensive view of my work and capabilities.
 
 © 2024 Chirag Khaitan
