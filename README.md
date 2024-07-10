@@ -13,7 +13,7 @@ This portfolio website is built using ```HTML```, ```CSS```, ```Tailwind```, ```
 - CSS3
 - Tailwind
 - ReactJs
-- Extras: EmailJs, React-Icons, Tilt.js, ThreeJs etc.
+- Extras: EmailJs, React-Icons, Tilt.js, ThreeJs, Framer-Motion etc.
 
 ## 📬 Contact
 
