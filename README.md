@@ -5,7 +5,7 @@ This Portfolio website serves as a testament to my skills, projects, and creativ
 
 ## About
 
-This portfolio website is built using ```HTML```, ```CSS```, ```Tailwind```, ```ReactJs```, ```ThreeJs``` showcasing my skills, projects, and interests in web development.
+This portfolio website is built using ```HTML```, ```CSS```, ```Tailwind```, ```ReactJs```, ```ThreeJs``` etc. showcasing my skills, projects, and interests in web development.
 
 ## 📌 Tech Stack
 
