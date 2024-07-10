@@ -1,5 +1,10 @@
 # Portfolio-Website [```live```](https://portfolio-chirag.vercel.app)
 
+This Portfolio website serves as a testament to my skills, projects, and creativity in web development. It aims to provide visitors with a comprehensive view of my work and capabilities.
+
+
+## About
+
 This portfolio website is built using ```HTML```, ```CSS```, ```Tailwind```, ```ReactJs```, ```ThreeJs``` showcasing my skills, projects, and interests in web development.
 
 ## 📌 Tech Stack
@@ -28,9 +33,5 @@ If you wish to connect with me, you can reach out through the following channels
   </a>
 </div>
 
-
-### About
-
-This Portfolio website serves as a testament to my skills, projects, and creativity in web development. It aims to provide visitors with a comprehensive view of my work and capabilities.
 
 © 2024 Chirag Khaitan
