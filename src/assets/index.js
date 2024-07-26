@@ -34,7 +34,7 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import Nexus from "./Nexus.png"
 import Studynotion from "./Studynotion.png";
 import Speakeasy from "./Speakeasy.png";
 import Chatbuddy from "./Chatbuddy.png";
@@ -43,6 +43,7 @@ import Ecommerce from "./Ecommerce.png";
 export {
   logo,
   Link,
+  Nexus,
   Studynotion,
   Speakeasy,
   Chatbuddy,

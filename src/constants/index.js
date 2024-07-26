@@ -7,6 +7,7 @@ import {
     typescript,
     html,
     Link,
+    Nexus,
     css,
     reactjs,
     redux,
@@ -220,6 +221,32 @@ const projects = [
         image: Studynotion,
         source_code_link: "https://github.com/TheChiragKhaitan/StudyNotion",
         live_link: "https://studynotion-chirag-khaitan.vercel.app",
+    },
+    {
+        name: "Nexus",
+        description:
+            "Nexus is a real-time whiteboard collabaration application built using various modern web technologies and tools to provide a seamless and engaging user experience.",
+        tags: [
+            {
+                name: "NextJs 14",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "Convex",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Liveblocks",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Clerk",
+                color: "orange-text-gradient",
+            },
+        ],
+        image: Nexus,
+        source_code_link: "https://github.com/TheChiragKhaitan/Nexus",
+        live_link: "https://nexus-chirag-khaitan.vercel.app",
     },
     {
         name: "ChatBuddy",
