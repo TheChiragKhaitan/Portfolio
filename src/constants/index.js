@@ -12,6 +12,7 @@ import {
     reactjs,
     redux,
     tailwind,
+    npm,
     socketio,
     postman,
     Vercel,
@@ -295,6 +296,32 @@ const projects = [
         image: Ecommerce,
         source_code_link: "https://github.com/TheChiragKhaitan/Ecommerce",
         live_link: "https://chirag-khaitan-ecommerce.vercel.app",
+    },
+    {
+        name: "React-Fresh-Toast",
+        description:
+            "React-Fresh-Toast is a npm package that allows you to add toast/notifications to your web application with ease. No more nonsense!",
+        tags: [
+            {
+                name: "Typescript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "CSS",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Javascript",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Rollup",
+                color: "orange-text-gradient",
+            },
+        ],
+        image: npm,
+        source_code_link: "https://github.com/TheChiragKhaitan/react-fresh-toast",
+        live_link: "https://www.npmjs.com/package/react-fresh-toast",
     },
     {
         name: "SpeakEasy",
