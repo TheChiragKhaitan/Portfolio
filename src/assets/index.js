@@ -11,7 +11,9 @@ import close from "./close.svg";
 import logochirag from "./logochirag.png"
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
+import Express from "./tech/Express.png";
 import figma from "./tech/figma.png";
+import Nextjs from "./tech/Nextjs.svg";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -31,6 +33,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import npm from "./npm.png";
+import RocketRush from "./RocketRush.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -43,6 +46,9 @@ import Ecommerce from "./Ecommerce.png";
 export {
   logo,
   Link,
+  Nextjs,
+  Express,
+  RocketRush,
   npm,
   Nexus,
   Studynotion,

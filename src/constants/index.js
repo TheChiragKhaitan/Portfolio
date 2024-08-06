@@ -7,7 +7,9 @@ import {
     typescript,
     html,
     Link,
+    RocketRush,
     Nexus,
+    Express,
     css,
     reactjs,
     redux,
@@ -26,6 +28,7 @@ import {
     meta,
     starbucks,
     tesla,
+    Nextjs,
     shopify,
 } from "../assets";
 
@@ -65,11 +68,11 @@ const services = [
 
 const technologies = [
     {
-        name: "HTML 5",
+        name: "HTML",
         icon: html,
     },
     {
-        name: "CSS 3",
+        name: "CSS",
         icon: css,
     },
     {
@@ -83,6 +86,10 @@ const technologies = [
     {
         name: "React JS",
         icon: reactjs,
+    },
+    {
+        name: "Next JS",
+        icon: Nextjs,
     },
     {
         name: "Redux Toolkit",
@@ -101,16 +108,12 @@ const technologies = [
         icon: mongodb,
     },
     {
-        name: "Socket io",
-        icon: socketio,
+        name: "Express Js",
+        icon: Express,
     },
     {
         name: "Git",
         icon: git,
-    },
-    {
-        name: "Postman",
-        icon: postman,
     },
     {
         name: "Vercel",
@@ -218,6 +221,10 @@ const projects = [
                 name: "Vercel",
                 color: "pink-text-gradient",
             },
+            {
+                name: "Render",
+                color: "orange-text-gradient",
+            },
         ],
         image: Studynotion,
         source_code_link: "https://github.com/TheChiragKhaitan/StudyNotion",
@@ -250,6 +257,32 @@ const projects = [
         live_link: "https://nexus-chirag-khaitan.vercel.app",
     },
     {
+        name: "Rocket Rush",
+        description:
+            "Rocket Rush is a thrilling web game inspired by the classic 'Space Impact'. Control your rocket using hand gestures, avoid meteors, and enjoy immersive sound effects.",
+        tags: [
+            {
+                name: "NextJs 14",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "MediaPipe",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Tone.js",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "Tailwind",
+                color: "orange-text-gradient",
+            },
+        ],
+        image: RocketRush,
+        source_code_link: "https://github.com/TheChiragKhaitan/Rocket-Rush",
+        live_link: "https://rocket-rush-chirag-khaitan.vercel.app",
+    },
+    {
         name: "ChatBuddy",
         description:
             "ChatBuddy is a real-time chat application built using various technologies to provide a seamless and engaging user experience for chatting with friends.",
@@ -274,28 +307,6 @@ const projects = [
         image: Chatbuddy,
         source_code_link: "https://github.com/TheChiragKhaitan/ChatBuddy",
         live_link: "https://chatbuddy-chirag-khaitan.vercel.app",
-    },
-    {
-        name: "Ecommerce Website",
-        description:
-            "This comprehensive E-Commerce Website offers user authentication, a shopping cart, search functionality with category filters, an admin panel for product and category management.",
-        tags: [
-            {
-                name: "MERN Stack",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "ContextAPI",
-                color: "green-text-gradient",
-            },
-            {
-                name: "Vercel",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: Ecommerce,
-        source_code_link: "https://github.com/TheChiragKhaitan/Ecommerce",
-        live_link: "https://chirag-khaitan-ecommerce.vercel.app",
     },
     {
         name: "React-Fresh-Toast",
@@ -323,6 +334,29 @@ const projects = [
         source_code_link: "https://github.com/TheChiragKhaitan/react-fresh-toast",
         live_link: "https://www.npmjs.com/package/react-fresh-toast",
     },
+    {
+        name: "Ecommerce Website",
+        description:
+            "This comprehensive E-Commerce Website offers user authentication, a shopping cart, search functionality with category filters, an admin panel for product and category management.",
+        tags: [
+            {
+                name: "MERN Stack",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "ContextAPI",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Vercel",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: Ecommerce,
+        source_code_link: "https://github.com/TheChiragKhaitan/Ecommerce",
+        live_link: "https://chirag-khaitan-ecommerce.vercel.app",
+    },
+    
     {
         name: "SpeakEasy",
         description:

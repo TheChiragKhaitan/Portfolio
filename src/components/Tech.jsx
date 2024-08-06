@@ -9,17 +9,17 @@ import { technologies } from "../constants";
 const Tech = () => {
   return (
     <>
-    <motion.div variants={textVariant()}>
+      <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>My Tech Stack</p>
         <h2 className={styles.sectionHeadText}>Skills.</h2>
       </motion.div>
-    <div className='flex flex-row flex-wrap justify-center mt-10 gap-10'>
-      {technologies.map((technology) => (
-        <div className='w-28 h-28' key={technology.name}>
-          <BallCanvas icon={technology.icon} />
-        </div>
-      ))}
-    </div>
+      <div className='flex flex-row flex-wrap justify-center mt-10 gap-10'>
+        {technologies.map((technology) => (
+          <div className='w-28 h-28' key={technology.name}>
+            <BallCanvas icon={technology.icon} title={technology.name} />
+          </div>
+        ))}
+      </div>
     </>
   );
 };
